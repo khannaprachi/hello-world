@@ -5,4 +5,5 @@ merging from local
 editing from git hub
 editing second time,
 adding comment from branch,
-adding comment from 2nd branch
+adding comment from 2nd branch,
+adding comment from 3rd branch
